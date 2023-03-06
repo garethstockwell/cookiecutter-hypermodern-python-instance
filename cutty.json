@@ -1,7 +1,7 @@
 {
   "template": {
     "location": "https://github.com/garethstockwell/cookiecutter-hypermodern-python",
-    "revision": "cdf06af7fe891d66311fa9329f937de1ce7600dd",
+    "revision": "7b8877362d06a4cb3a9af1c7ff60acf2d2e5d91e",
     "directory": null
   },
   "bindings": {
