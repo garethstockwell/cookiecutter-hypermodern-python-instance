@@ -1,0 +1,19 @@
+{
+  "template": {
+    "location": "https://github.com/garethstockwell/cookiecutter-hypermodern-python",
+    "revision": "cdf06af7fe891d66311fa9329f937de1ce7600dd",
+    "directory": null
+  },
+  "bindings": {
+    "project_name": "cookiecutter-hypermodern-python-instance",
+    "package_name": "cookiecutter_hypermodern_python_instance",
+    "friendly_name": "Cookiecutter Hypermodern Python Instance",
+    "author": "Gareth Stockwell",
+    "email": "gareth.stockwell@gmail.com",
+    "github_user": "garethstockwell",
+    "version": "0.0.0",
+    "copyright_year": "2023",
+    "license": "MIT",
+    "development_status": "Development Status :: 1 - Planning"
+  }
+}
